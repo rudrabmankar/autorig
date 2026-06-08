@@ -1,0 +1,188 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background:black;
+  color:white;
+}
+
+.navbar{
+  background:#b30000;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:15px 40px;
+}
+
+.logo-container{
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+
+.logo{
+  width:180px;
+  background-color: black;
+}
+
+.nav-links{
+  list-style:none;
+  display:flex;
+  gap:25px;
+}
+
+.nav-links a{
+  text-decoration:none;
+  color:white;
+  font-weight:bold;
+}
+
+.nav-links a:hover{
+  color: black;
+  
+}
+
+.hero{
+  text-align:center;
+  padding:60px 20px;
+}
+
+.hero h1{
+  font-size:50px;
+  margin-bottom:10px;
+}
+
+.hero p{
+  font-size:20px;
+}
+
+.search-section{
+  text-align:center;
+  margin:20px;
+}
+
+.search-section input{
+  width:300px;
+  padding:10px;
+  margin-top:10px;
+}
+
+.section-title{
+  text-align:center;
+  margin-top:40px;
+  margin-bottom:20px;
+}
+
+.categories{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:20px;
+  padding:20px;
+}
+.searchbar:hover{
+  box-shadow: 0 0 20px grey;
+}
+.searchbar{
+  border-radius: 15px;
+}
+.card{
+  width:220px;
+  border:2px solid red;
+  border-radius:10px;
+  text-align:center;
+  padding:1%;
+  overflow: hidden;
+  transition: all 0.2s ease;
+}
+.showbutton:hover{
+  background-color: darkred;
+  border: 1px solid white;
+}
+.card img{
+  width:100%;
+  border: 2px black;
+  background-color: azure;
+  object-fit:contain;
+  aspect-ratio: 1/1;
+}
+.card:hover{
+  transform: translateY(-10px);
+  box-shadow: 0 10px 25px red;
+}
+
+.products{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:20px;
+  padding:20px;
+}
+
+.product-card{
+  width:220px;
+  border:2px solid red;
+  border-radius:10px;
+  padding:20px;
+  text-align:center;
+}
+
+button{
+  margin-top:10px;
+  background:red;
+  color:white;
+  border:none;
+  padding:10px 20px;
+  cursor:pointer;
+  border-radius:5px;
+}
+
+.page{
+  text-align:center;
+  padding:60px;
+}
+
+.page h1{
+  margin-bottom:20px;
+}
+
+.page p{
+  font-size:18px;
+  margin-bottom:10px;
+}
+
+.footer {
+  background-color: #111;
+  color: white;
+  padding: 30px 20px;
+  margin-top: 50px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.footer h3 {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.footer p {
+  margin: 5px 0;
+}
+
+.footer hr {
+  margin: 20px 0;
+  border: 1px solid #333;
+}
+
+.copyright {
+  text-align: center;
+}
