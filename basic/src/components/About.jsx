@@ -28,6 +28,7 @@ export function About() {
             be your trusted destination for motorcycle parts and accessories. We are
             committed to helping riders keep their motorcycles safe, efficient, and
             road-ready at all times.
+
         </p>
 
       </div>
