@@ -15,12 +15,14 @@ export function About() {
             a wide range of motorcycle components including spark plugs, disc brakes,
             winglets, mirrors, brake pads, filters, and other essential parts required
             for maintenance and performance upgrades.
-
+        </p>
+        <p>
             At AutoRig, our mission is to make it easy for motorcycle enthusiasts to
             find reliable spare parts without the hassle of searching through multiple
             stores. We focus on delivering quality products, competitive pricing, and
             a simple shopping experience for every customer.
-
+        </p>
+        <p>
             Whether you are a daily commuter, a touring rider, or a motorcycle lover
             looking to enhance your bike's performance and appearance, AutoRig aims to
             be your trusted destination for motorcycle parts and accessories. We are
