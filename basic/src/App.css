@@ -54,6 +54,7 @@ body{
 .hero h1{
   font-size:50px;
   margin-bottom:10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .hero p{
