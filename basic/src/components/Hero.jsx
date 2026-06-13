@@ -5,7 +5,7 @@ function Hero() {
       <h1>Welcome to AutoRig</h1>
 
       <p>
-        Your One Stop Shop for Motorcycle Parts
+        Your One Stop Shop for Motorcycle Parts.
       </p>
 
     </section>
