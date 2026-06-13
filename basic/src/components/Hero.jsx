@@ -6,6 +6,7 @@ function Hero() {
 
       <p>
         Your One Stop Shop for Motorcycle Parts.
+        <h2>testing</h2>
       </p>
 
     </section>
